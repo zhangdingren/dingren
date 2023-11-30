@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>古华轩酒业</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f3e3; /* 浅米黄色调，适合酒业主题 */
+        }
+
+        header {
+            background-color: #642e16; /* 深褐色调，适合酒业主题 */
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        nav {
+            background-color: #8c493c; /* 红褐色调，适合酒业主题 */
+            overflow: hidden;
+        }
+
+        nav a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        nav a:hover {
+            background-color: #ae6759; /* 深红褐色调，适合酒业主题 */
+            color: black;
+        }
+
+        section {
+            margin: 20px;
+            padding: 20px;
+            background-color: #fff;
+        }
+
+        footer {
+            background-color: #642e16; /* 深褐色调，适合酒业主题 */
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>古华轩酒业</h1>
+    </header>
+
+    <nav>
+        <a href="#">首页</a>
+        <a href="#">关于我们</a>
+        <a href="#">酒品</a>
+        <a href="#">联系我们</a>
+    </nav>
+
+    <section>
+        <h2>古华轩的文化</h2>
+        <p>古华轩，传承千年的酒业文化。我们以独特的工艺和精选的原料，致力于为您带来最优质的酒品体验。</p>
+
+        <h2>古华轩酒</h2>
+        <p>我们引以为傲的酒品，承载着丰富的历史和精湛的技艺。每一滴酒都是匠心独运的杰作，为您呈现卓越的口感和香气。</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 古华轩酒业. 保留所有权利。</p>
+    </footer>
+
+</body>
+
+</html>
